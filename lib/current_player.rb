@@ -11,6 +11,7 @@ end
 
 #current_player
 def current_player(board)
+  
   if counter % 2 = 0
     board[index] = "X"
   end
